@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. The UI itself is drawn with Compose Material 3. -->
+    <style name="Base.Theme.EmployeeRecords" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.EmployeeRecords" parent="Base.Theme.EmployeeRecords" />
+</resources>
